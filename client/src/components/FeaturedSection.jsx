@@ -60,5 +60,3 @@ const FeaturedSection = () => {
 }
 
 export default FeaturedSection
-
-// 9:25:25
