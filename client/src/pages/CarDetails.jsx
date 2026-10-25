@@ -154,5 +154,3 @@ const CarDetails = () => {
 
 export default CarDetails
 
-
-// 9:03:20

@@ -209,5 +209,3 @@ const AddCar = () => {
 
 export default AddCar
 
-
-// 8:22:50

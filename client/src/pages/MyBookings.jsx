@@ -109,5 +109,3 @@ const MyBookings = () => {
 
 export default MyBookings
 
-
-// 2:36:15
